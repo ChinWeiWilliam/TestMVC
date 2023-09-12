@@ -1,0 +1,12 @@
+C:\product\TestMVC\WebCore\bin\Debug\net6.0\WebCore.deps.json
+C:\product\TestMVC\WebCore\bin\Debug\net6.0\WebCore.dll
+C:\product\TestMVC\WebCore\bin\Debug\net6.0\WebCore.pdb
+C:\product\TestMVC\WebCore\obj\Debug\net6.0\WebCore.csproj.AssemblyReference.cache
+C:\product\TestMVC\WebCore\obj\Debug\net6.0\WebCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\product\TestMVC\WebCore\obj\Debug\net6.0\WebCore.AssemblyInfoInputs.cache
+C:\product\TestMVC\WebCore\obj\Debug\net6.0\WebCore.AssemblyInfo.cs
+C:\product\TestMVC\WebCore\obj\Debug\net6.0\WebCore.csproj.CoreCompileInputs.cache
+C:\product\TestMVC\WebCore\obj\Debug\net6.0\WebCore.dll
+C:\product\TestMVC\WebCore\obj\Debug\net6.0\refint\WebCore.dll
+C:\product\TestMVC\WebCore\obj\Debug\net6.0\WebCore.pdb
+C:\product\TestMVC\WebCore\obj\Debug\net6.0\ref\WebCore.dll

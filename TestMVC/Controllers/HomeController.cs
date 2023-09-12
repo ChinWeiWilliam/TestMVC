@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using TestMVC.Models;
 
+
 namespace TestMVC.Controllers
 {
     public class HomeController : Controller
@@ -12,7 +13,43 @@ namespace TestMVC.Controllers
         {
             _logger = logger;
         }
+        [HttpGet]
+        public IActionResult Login()
+        {
+           
 
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Login(string Account ,string Password)
+        {
+            string account = Account;
+            string pwd = Password;
+            if (string.IsNullOrEmpty(account))
+            {
+                ModelState.AddModelError("Account", " *Please enter a Account!");
+            }
+            if (string.IsNullOrEmpty(pwd))
+            {
+                ModelState.AddModelError("Password", "*Please enter a Password!");
+            }
+            if (ModelState.IsValid)
+            {
+                if (account == "admin" && pwd == "123456")
+                {
+                    return RedirectToAction("Index", "Home");
+                }
+                else
+                {
+                    // 登录失败，添加错误消息
+                    ModelState.AddModelError("Summary", "Invalid username or password.");
+                }
+
+            }
+
+
+            return View();
+        }
         public IActionResult Index()
         {
             List< TestModel >items = new List< TestModel>
