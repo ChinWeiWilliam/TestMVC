@@ -1,8 +1,6 @@
-﻿@page
-@model TestMVC.Models.login
+﻿@model LoginModel
 @{
     Layout = null;
-    ViewBag.Title = "Login";
 }
 
 <header>
@@ -38,17 +36,17 @@
                         Sign In
                     </span>
                 </div>
-                <form class="login100-form validate-form" asp-controller="Home" asp-action="Login" method="post">
+                <form  method="post">
                     <div class="wrap-input100 validate-input m-b-26" data-validate="Account is required">
                         <span class="label-input100">Username</span>
-                        <input class="input100" type="text" name="Account" placeholder="Enter Account">
+                        <input class="input100" type="text" name="Account" placeholder="Enter Account" asp-for="Account">
                         <span class="text-danger" style="color:red">@Html.ValidationMessageFor(model => model.Account)</span>
                         <span class="focus-input100"></span>
                     </div>
 
                     <div class="wrap-input100 validate-input m-b-18" data-validate="Password is required">
                         <span class="label-input100">Password</span>
-                        <input class="input100" type="password" name="Password" placeholder="Enter Password 6~16 character" minlength="6" maxlength="16">
+                        <input class="input100" type="password" name="Password" placeholder="Enter Password 6~16 character" minlength="6" maxlength="16" asp-for="Password">
                         <span class="text-danger" style="color:red">@Html.ValidationMessageFor(model => model.Password)</span>
 
                         <span class="focus-input100"></span>
@@ -70,7 +68,7 @@
                     </div>
 
                     <div class="container-login100-form-btn">
-                        <button class="login100-form-btn">
+                        <button class="login100-form-btn" type="submit" asp-action="GetLogin">
                             Login
                         </button>
                     </div>
