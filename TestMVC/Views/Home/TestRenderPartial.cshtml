@@ -1,0 +1,20 @@
+﻿@page
+@model List<TestMVC.Models.TestModel>
+@{
+}
+<div>
+    @{
+        Html.RenderPartial("~/Views/Home/Index.cshtml");
+    }
+
+
+    @{Html.RenderPartial("~/Views/Home/Privacy.cshtml");}
+
+
+    @{
+        if(DateTime.Now.Month == 9)
+        {
+            Html.RenderPartial("~/Views/Home/About.cshtml");
+        }
+    }
+</div>
