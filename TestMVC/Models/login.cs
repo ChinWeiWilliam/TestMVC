@@ -2,9 +2,9 @@
 
 namespace TestMVC.Models
 {
-    public class login
+    public class Login
     {
-        public login()
+        public Login()
         {
             Account = string.Empty;
             Password = string.Empty;
