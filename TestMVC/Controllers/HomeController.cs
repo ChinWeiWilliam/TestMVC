@@ -7,12 +7,6 @@ namespace TestMVC.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
         public IActionResult Index()
         {
             ViewBag.Message = HttpContext.Session.GetString("account");
@@ -21,9 +15,30 @@ namespace TestMVC.Controllers
         }
         public IActionResult Logout()
         {
-            HttpContext.Session.Remove("account");
+            try
+            {
+                if(HttpContext.Session.TryGetValue("account",out var accountData))
+                {
+                    HttpContext.Session.Remove("account");
+                }
+                    Response.Headers.Add("Cache-Control", "no-cache, no-store, must-revalidate");
+                    Response.Headers.Add("Pragma", "no-cache");
+                    Response.Headers.Add("Expires", "0");
+
+            }
+            catch(Exception ex)
+            {
+                // 捕获异常并记录错误消息
+                string logMessage = $"Error: {ex.Message}\nStackTrace: {ex.StackTrace}";
+
+                // 指定日志文件路径
+                string logFilePath = "Logs/error.log";
+
+                // 将错误消息写入文本文件
+                System.IO.File.WriteAllText(logFilePath, logMessage);
+            }
             //2023/09/12 22:48 remove session
-            return View();
+            return RedirectToAction("Index","Login");
         }
         public IActionResult Privacy()
         {
