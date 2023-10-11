@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UHEoG8yxjoFTCAMl2YUOf1wyfB2bKhvjUe5W6OIGSzM=",
+  "Hash": "8tcg5PyQKwm7Bq2pBdVT1y15lqwdsoqsBkf/Qx0vwGc=",
   "Source": "TestMVC",
   "BasePath": "_content/TestMVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TestMVC\\wwwroot",
       "Source": "TestMVC",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TestMVC.styles.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TestMVC.styles.css",
       "SourceId": "TestMVC",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "TestMVC.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TestMVC.styles.css"
+      "OriginalItemSpec": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TestMVC.styles.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TestMVC.bundle.scp.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TestMVC.bundle.scp.css",
       "SourceId": "TestMVC",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "TestMVC.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TestMVC.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TestMVC.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\css\\bootstrap.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\css\\maicons.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\css\\maicons.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "css/maicons.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\maicons.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\css\\main.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\css\\main.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "css/main.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\css\\site.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\css\\StyleSheet.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\css\\StyleSheet.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "css/StyleSheet.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\css\\theme.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\css\\theme.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "css/theme.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\theme.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\css\\theme.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\css\\theme.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "css/theme.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\theme.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\css\\util.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\css\\util.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "css/util.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\util.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\favicon.ico",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/css/font-awesome.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/HELP-US-OUT.txt",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\animated.less",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/less/animated.less",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\animated.less"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/less/bordered-pulled.less",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\core.less",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/less/core.less",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\core.less"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/less/fixed-width.less",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/less/font-awesome.less",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\icons.less",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/less/icons.less",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\icons.less"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\larger.less",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/less/larger.less",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\larger.less"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\list.less",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/less/list.less",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\list.less"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/less/mixins.less",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\path.less",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/less/path.less",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\path.less"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/less/rotated-flipped.less",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/less/screen-reader.less",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/less/stacked.less",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\variables.less",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/less/variables.less",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\variables.less"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_animated.scss",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_core.scss",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_fixed-width.scss",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_icons.scss",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_larger.scss",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_list.scss",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_mixins.scss",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_path.scss",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_screen-reader.scss",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_stacked.scss",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_variables.scss",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/font-awesome.scss",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/Linearicons-Free-v1.0.0/icon-font.min.css",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.ttf",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff2",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\maicons.eot",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\maicons.eot",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/maicons.eot",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\maicons.eot"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\maicons.svg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\maicons.svg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/maicons.svg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\maicons.svg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\maicons.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\maicons.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/maicons.ttf",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\maicons.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\maicons.woff",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\maicons.woff",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/maicons.woff",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\maicons.woff"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-Black.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-Black.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/poppins/Poppins-Black.ttf",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-Black.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-BlackItalic.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/poppins/Poppins-BlackItalic.ttf",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-BlackItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-Bold.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-Bold.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/poppins/Poppins-Bold.ttf",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-BoldItalic.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/poppins/Poppins-BoldItalic.ttf",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-BoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-ExtraBold.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/poppins/Poppins-ExtraBold.ttf",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-ExtraBold.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/poppins/Poppins-ExtraBoldItalic.ttf",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-ExtraLight.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/poppins/Poppins-ExtraLight.ttf",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-ExtraLight.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/poppins/Poppins-ExtraLightItalic.ttf",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-Italic.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-Italic.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/poppins/Poppins-Italic.ttf",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-Italic.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-Light.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-Light.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/poppins/Poppins-Light.ttf",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-LightItalic.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/poppins/Poppins-LightItalic.ttf",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-LightItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-Medium.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-Medium.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/poppins/Poppins-Medium.ttf",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-MediumItalic.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/poppins/Poppins-MediumItalic.ttf",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-MediumItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-Regular.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-Regular.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/poppins/Poppins-Regular.ttf",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/poppins/Poppins-SemiBold.ttf",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/poppins/Poppins-SemiBoldItalic.ttf",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-Thin.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-Thin.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/poppins/Poppins-Thin.ttf",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-Thin.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\fonts\\poppins\\Poppins-ThinItalic.ttf",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "fonts/poppins/Poppins-ThinItalic.ttf",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-ThinItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\about.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\about.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/about.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\bg_image_1.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\bg_image_1.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/bg_image_1.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg_image_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\bg_image_2.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\bg_image_2.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/bg_image_2.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg_image_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\bg_image_3.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\bg_image_3.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/bg_image_3.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg_image_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\bg-01.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\bg-01.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/bg-01.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\clients\\airbnb.png",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\clients\\airbnb.png",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/clients/airbnb.png",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\airbnb.png"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\clients\\google.png",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\clients\\google.png",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/clients/google.png",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\google.png"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\clients\\mailchimp.png",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\clients\\mailchimp.png",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/clients/mailchimp.png",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\mailchimp.png"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\clients\\paypal.png",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\clients\\paypal.png",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/clients/paypal.png",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\paypal.png"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\clients\\stripe.png",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\clients\\stripe.png",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/clients/stripe.png",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\stripe.png"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\app_development.svg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\app_development.svg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/icons/app_development.svg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\app_development.svg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\customer_services.svg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\customer_services.svg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/icons/customer_services.svg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\customer_services.svg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\data_analyst.svg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\data_analyst.svg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/icons/data_analyst.svg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\data_analyst.svg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\favicon.ico",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\favicon.ico",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/icons/favicon.ico",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\graphics_design.svg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\graphics_design.svg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/icons/graphics_design.svg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\graphics_design.svg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\map-marker.png",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\map-marker.png",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/icons/map-marker.png",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\map-marker.png"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\product_design.svg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\product_design.svg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/icons/product_design.svg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\product_design.svg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\seo_and_marketing.svg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\seo_and_marketing.svg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/icons/seo_and_marketing.svg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\seo_and_marketing.svg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\ui_ux_design.svg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\ui_ux_design.svg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/icons/ui_ux_design.svg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\ui_ux_design.svg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\web_development.svg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\icons\\web_development.svg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/icons/web_development.svg",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\web_development.svg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\person\\person_1.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\person\\person_1.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/person/person_1.jpg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\img\\person\\person_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\person\\person_2.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\person\\person_2.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/person/person_2.jpg",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\img\\person\\person_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\person\\person_3.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\person\\person_3.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/person/person_3.jpg",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\img\\person\\person_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\person\\person_4.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\person\\person_4.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/person/person_4.jpg",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\img\\person\\person_4.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\portfolio\\work-1.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\portfolio\\work-1.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/portfolio/work-1.jpg",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\work-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\portfolio\\work-2.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\portfolio\\work-2.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/portfolio/work-2.jpg",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\work-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\portfolio\\work-3.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\portfolio\\work-3.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/portfolio/work-3.jpg",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\work-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\portfolio\\work-4.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\portfolio\\work-4.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/portfolio/work-4.jpg",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\work-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\portfolio\\work-5.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\portfolio\\work-5.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/portfolio/work-5.jpg",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\work-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\portfolio\\work-6.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\portfolio\\work-6.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/portfolio/work-6.jpg",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\work-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\portfolio\\work-7.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\portfolio\\work-7.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/portfolio/work-7.jpg",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\work-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\portfolio\\work-8.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\portfolio\\work-8.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/portfolio/work-8.jpg",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\work-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\portfolio\\work-9.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\portfolio\\work-9.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/portfolio/work-9.jpg",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\work-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\teams\\team_1.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\teams\\team_1.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/teams/team_1.jpg",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\img\\teams\\team_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\teams\\team_2.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\teams\\team_2.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/teams/team_2.jpg",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\img\\teams\\team_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\img\\teams\\team_3.jpg",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\img\\teams\\team_3.jpg",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "img/teams/team_3.jpg",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\img\\teams\\team_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\js\\google-maps.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\js\\google-maps.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "js/google-maps.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\js\\google-maps.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\js\\jquery-3.5.1.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\js\\jquery-3.5.1.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "js/jquery-3.5.1.min.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.5.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\js\\main.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\js\\map-custom.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\js\\map-custom.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "js/map-custom.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\js\\map-custom.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\js\\site.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\js\\theme.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\js\\theme.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "js/theme.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\js\\theme.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\sass\\_breadcrumb.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\sass\\_breadcrumb.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "sass/_breadcrumb.scss",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_breadcrumb.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\sass\\_buttons.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\sass\\_buttons.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "sass/_buttons.scss",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\sass\\_color-systems.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\sass\\_color-systems.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "sass/_color-systems.scss",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_color-systems.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\sass\\_functions.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\sass\\_functions.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "sass/_functions.scss",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\sass\\_images.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\sass\\_images.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "sass/_images.scss",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_images.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\sass\\_input.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\sass\\_input.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "sass/_input.scss",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_input.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\sass\\_mixins.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\sass\\_mixins.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "sass/_mixins.scss",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\sass\\_navbar.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\sass\\_navbar.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "sass/_navbar.scss",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\sass\\_pagination.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\sass\\_pagination.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "sass/_pagination.scss",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\sass\\_plugins.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\sass\\_plugins.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "sass/_plugins.scss",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_plugins.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\sass\\_variables.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\sass\\_variables.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "sass/_variables.scss",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\sass\\theme.scss",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\sass\\theme.scss",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "sass/theme.scss",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\theme.scss"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\animate\\animate.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\animate\\animate.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/animate/animate.css",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\animate\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\animate\\animate_login.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\animate\\animate_login.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/animate/animate_login.css",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\animate\\animate_login.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\animsition\\css\\animsition.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\animsition\\css\\animsition.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/animsition/css/animsition.css",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\animsition\\css\\animsition.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\animsition\\css\\animsition.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\animsition\\css\\animsition.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/animsition/css/animsition.min.css",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\animsition\\css\\animsition.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\animsition\\js\\animsition.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\animsition\\js\\animsition.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/animsition/js/animsition.js",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\animsition\\js\\animsition.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\animsition\\js\\animsition.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\animsition\\js\\animsition.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/animsition/js/animsition.min.js",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\animsition\\js\\animsition.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -3332,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -3349,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -3366,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -3383,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -3400,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -3417,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -3434,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -3451,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -3468,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -3485,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -3502,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -3519,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -3536,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3553,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\js\\popper.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\js\\popper.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/bootstrap/js/popper.js",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\popper.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\js\\popper.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\js\\popper.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/bootstrap/js/popper.min.js",
       "AssetKind": "All",
@@ -3587,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\js\\tooltip.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\bootstrap\\js\\tooltip.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/bootstrap/js/tooltip.js",
       "AssetKind": "All",
@@ -3604,10 +3604,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\tooltip.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\countdowntime\\countdowntime.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\countdowntime\\countdowntime.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/countdowntime/countdowntime.js",
       "AssetKind": "All",
@@ -3621,10 +3621,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\countdowntime\\countdowntime.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\css-hamburgers\\hamburgers.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\css-hamburgers\\hamburgers.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/css-hamburgers/hamburgers.css",
       "AssetKind": "All",
@@ -3638,10 +3638,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\css-hamburgers\\hamburgers.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\css-hamburgers\\hamburgers.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/css-hamburgers/hamburgers.min.css",
       "AssetKind": "All",
@@ -3655,10 +3655,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\css-hamburgers\\hamburgers.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\daterangepicker\\daterangepicker.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\daterangepicker\\daterangepicker.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/daterangepicker/daterangepicker.css",
       "AssetKind": "All",
@@ -3672,10 +3672,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\daterangepicker\\daterangepicker.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\daterangepicker\\daterangepicker.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\daterangepicker\\daterangepicker.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/daterangepicker/daterangepicker.js",
       "AssetKind": "All",
@@ -3689,10 +3689,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\daterangepicker\\daterangepicker.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\daterangepicker\\moment.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\daterangepicker\\moment.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/daterangepicker/moment.js",
       "AssetKind": "All",
@@ -3706,10 +3706,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\daterangepicker\\moment.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\daterangepicker\\moment.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\daterangepicker\\moment.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/daterangepicker/moment.min.js",
       "AssetKind": "All",
@@ -3723,10 +3723,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\daterangepicker\\moment.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\fancybox\\css\\jquery.fancybox.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\fancybox\\css\\jquery.fancybox.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/fancybox/css/jquery.fancybox.css",
       "AssetKind": "All",
@@ -3740,10 +3740,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\fancybox\\css\\jquery.fancybox.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\fancybox\\css\\jquery.fancybox.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\fancybox\\css\\jquery.fancybox.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/fancybox/css/jquery.fancybox.min.css",
       "AssetKind": "All",
@@ -3757,10 +3757,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\fancybox\\css\\jquery.fancybox.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\fancybox\\js\\jquery.fancybox.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\fancybox\\js\\jquery.fancybox.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/fancybox/js/jquery.fancybox.js",
       "AssetKind": "All",
@@ -3774,10 +3774,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\fancybox\\js\\jquery.fancybox.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\fancybox\\js\\jquery.fancybox.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\fancybox\\js\\jquery.fancybox.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/fancybox/js/jquery.fancybox.min.js",
       "AssetKind": "All",
@@ -3791,10 +3791,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\fancybox\\js\\jquery.fancybox.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\isotope\\isotope.pkgd.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\isotope\\isotope.pkgd.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/isotope/isotope.pkgd.js",
       "AssetKind": "All",
@@ -3808,10 +3808,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\isotope\\isotope.pkgd.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\isotope\\isotope.pkgd.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\isotope\\isotope.pkgd.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/isotope/isotope.pkgd.min.js",
       "AssetKind": "All",
@@ -3825,10 +3825,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\isotope\\isotope.pkgd.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\jquery\\jquery-3.2.1.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/jquery/jquery-3.2.1.min.js",
       "AssetKind": "All",
@@ -3842,10 +3842,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\jquery\\jquery-3.2.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\owl-carousel\\css\\owl.carousel.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\owl-carousel\\css\\owl.carousel.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/owl-carousel/css/owl.carousel.css",
       "AssetKind": "All",
@@ -3859,10 +3859,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\owl-carousel\\css\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\owl-carousel\\css\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\owl-carousel\\css\\owl.carousel.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/owl-carousel/css/owl.carousel.min.css",
       "AssetKind": "All",
@@ -3876,10 +3876,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\owl-carousel\\css\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\owl-carousel\\css\\owl.theme.default.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\owl-carousel\\css\\owl.theme.default.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/owl-carousel/css/owl.theme.default.css",
       "AssetKind": "All",
@@ -3893,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\owl-carousel\\css\\owl.theme.default.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\owl-carousel\\css\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\owl-carousel\\css\\owl.theme.default.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/owl-carousel/css/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -3910,10 +3910,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\owl-carousel\\css\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\owl-carousel\\js\\owl.carousel.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\owl-carousel\\js\\owl.carousel.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/owl-carousel/js/owl.carousel.js",
       "AssetKind": "All",
@@ -3927,10 +3927,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\owl-carousel\\js\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\owl-carousel\\js\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\owl-carousel\\js\\owl.carousel.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/owl-carousel/js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -3944,10 +3944,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\owl-carousel\\js\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/perfect-scrollbar/perfect-scrollbar.css",
       "AssetKind": "All",
@@ -3961,10 +3961,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/perfect-scrollbar/perfect-scrollbar.min.js",
       "AssetKind": "All",
@@ -3978,10 +3978,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\select2\\select2.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\select2\\select2.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/select2/select2.css",
       "AssetKind": "All",
@@ -3995,10 +3995,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\select2\\select2.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\select2\\select2.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\select2\\select2.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/select2/select2.js",
       "AssetKind": "All",
@@ -4012,10 +4012,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\select2\\select2.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\select2\\select2.min.css",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\select2\\select2.min.css",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/select2/select2.min.css",
       "AssetKind": "All",
@@ -4029,10 +4029,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\select2\\select2.min.css"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\select2\\select2.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\select2\\select2.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/select2/select2.min.js",
       "AssetKind": "All",
@@ -4046,10 +4046,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\select2\\select2.min.js"
     },
     {
-      "Identity": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\vendor\\wow\\wow.min.js",
+      "Identity": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\vendor\\wow\\wow.min.js",
       "SourceId": "TestMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\k3232\\Desktop\\testMVC\\TestMVC\\TestMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\3752\\Desktop\\TestMVC\\TestMVC\\wwwroot\\",
       "BasePath": "_content/TestMVC",
       "RelativePath": "vendor/wow/wow.min.js",
       "AssetKind": "All",

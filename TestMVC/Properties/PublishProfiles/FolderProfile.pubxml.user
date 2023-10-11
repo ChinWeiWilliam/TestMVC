@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\MvcWeb</_PublishTargetUrl>
+    <History>True|2023-09-13T01:11:29.9689968Z;False|2023-09-13T09:10:53.8648519+08:00;True|2023-09-13T09:09:06.7795045+08:00;True|2023-09-13T09:04:53.9884253+08:00;True|2023-09-13T08:58:53.1914609+08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

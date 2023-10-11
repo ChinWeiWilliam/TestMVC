@@ -1,0 +1,83 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "MvcEduContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "MvcEduModels",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "TestMVC",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Account]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Audit]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Classroom]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Course]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CourseCatalog]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Dept]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Employee]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Member]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Member_Course]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[School]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Teacher]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "desktop-589ftcq.MvcEdu.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

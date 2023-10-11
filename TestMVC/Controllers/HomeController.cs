@@ -18,7 +18,7 @@ namespace TestMVC.Controllers
         {
             
             HttpContext.Session.Remove("account");
-            return RedirectToAction("Login", "Home");
+            return RedirectToAction("Index", "Login");
         }
         public IActionResult Privacy()
         {
